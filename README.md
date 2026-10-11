@@ -1,6 +1,5 @@
 # Juan Christian
 
-I am a fullstack developer tackling life one bug at a time!
 
 
 ### 🛠 &nbsp;Tech Stack
